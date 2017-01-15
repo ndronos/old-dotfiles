@@ -3,5 +3,6 @@ sudo apt-get install \
   vim \
   htop \
   tree \
+  wget \
 -y
 
