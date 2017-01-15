@@ -10,3 +10,6 @@ sudo apt-get dist-upgrade -y
 echo "Clean ************"
 sudo apt-get clean -y
 
+echo "Autoclean ********"
+sudo apt-get autoclean -y
+
