@@ -4,5 +4,6 @@ sudo apt-get install \
   htop \
   tree \
   wget \
+  curl \
 -y
 
