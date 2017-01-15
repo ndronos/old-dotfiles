@@ -13,3 +13,6 @@ sudo apt-get clean -y
 echo "Autoclean ********"
 sudo apt-get autoclean -y
 
+echo "Autoremove *******"
+sudo apt-get autoremove -y
+
