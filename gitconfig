@@ -2,3 +2,19 @@
   email = ndronos@gmail.com
   name  = Leandro Leite
 
+[alias]
+
+  # status
+  s = status
+
+  # log
+  l1 = log --oneline
+
+  # commit
+  ca = commit --amend
+
+  # push
+  pom  = push origin master
+  fom  = push --force origin master
+  pall = push --all
+
