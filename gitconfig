@@ -18,3 +18,6 @@
   fom  = push --force origin master
   pall = push --all
 
+  # reset
+  rh1 = reset HEAD^
+
